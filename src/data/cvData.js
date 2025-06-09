@@ -1,12 +1,12 @@
 // src/data/cvData.js
 export const cabecera = {
-  nombre: "Yeison Caro Orrego",
-  cargo: "Desarrollador Back-End",
+  nombre: "Estiben Mosquera Palacios",
+  cargo: "Desarrollador FullStack",
 };
 
 export const perfil = {
   texto:
-    "Tecnólogo en Análisis y Desarrollo de Software con experiencia en desarrollo web y móvil. Apasionado por la tecnología, con habilidades sólidas en programación, diseño de interfaces y gestión de proyectos. Me destaco por ser responsable, puntual en la entrega de trabajos y con capacidad para adaptarme a nuevos entornos tecnológicos. Con conocimientos en múltiples lenguajes como Python y Java, y dominio en frameworks modernos como React y Node.js."
+    "Tecnólogo en Análisis y Desarrollo de Software con experiencia en desarrollo web y móvil. Apasionado por la tecnología, con habilidades sólidas en programación, diseño de interfaces y gestión de proyectos. Me destaco por ser responsable, puntual en la entrega de trabajos y con capacidad para adaptarme a nuevos entornos tecnológicos. Con conocimientos en múltiples lenguajes como Python y Java, cobol y dominio en frameworks modernos como React y Node.js."
 };
 
 export const educacion = [
@@ -37,7 +37,7 @@ export const stackTecnologias = [
   { id: 1, nombre: "HTML", tipo: "frontend" },
   { id: 2, nombre: "Node.js", tipo: "backend" },
   { id: 3, nombre: "CSS", tipo: "frontend" },
-  { id: 4, nombre: "PostgreSQL", tipo: "base de datos" }
+  { id: 4, nombre: "MongoDB", tipo: "base de datos" }
 ];
 
 /* Nuevas secciones */
